@@ -26,7 +26,7 @@
 | 功能 | 状态 | 说明 |
 | --- | --- | --- |
 | CPU 电源管理 / 变频 | ✅ | SSDT-PLUG-ALT + CpuTopologyRebuild（大小核拓扑优化） |
-| 核显加速 | ✅ | WhateverGreen 仿冒，Metal 正常|
+| 核显加速 | ✅ | WhateverXe 仿冒，Metal2正常，需要安装[WhateverXe Graphics](https://github.com/b00t0x/WhateverXe-Graphics/releases)|
 | 屏幕亮度调节 / 自动亮度 | ✅ | BrightnessKeys + SMCLightSensor + SSDT-PNLF / ALS0 |
 | 声卡 / 内置扬声器 | ✅ | AppleALC|
 | Wi-Fi | ✅ | AirportItlwm|
