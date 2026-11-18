@@ -284,14 +284,6 @@
 					<key>Custom ADB Map</key>
 					<array>
 						<string>;Items must be strings in the form of scanfrom=adbto (in hex)</string>
-						<string>3b=91</string>
-						<string>3c=90</string>
-						<string>e077=91</string>
-						<string>e078=90</string>
-						<string>e04e=90</string>
-						<string>e059=90</string>
-						<string>e06e=90</string>
-						<string>e06f=91</string>
 					</array>
 					<key>Custom PS2 Map</key>
 					<array>
@@ -302,7 +294,7 @@
 					<key>HIDF12EjectDelay</key>
 					<integer>250</integer>
 					<key>LogScanCodes</key>
-					<integer>1</integer>
+					<integer>0</integer>
 					<key>Make Application key into Apple Fn key</key>
 					<false/>
 					<key>Make Application key into right windows</key>
